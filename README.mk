@@ -1,5 +1,3 @@
----
-
 
 # 📌 Sistema Bancário CLI - Python
 
