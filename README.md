@@ -14,8 +14,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```
 
-/sistema-bancario
-│── 🐍 banco.py          # Arquivo principal com a lógica refatorada
+/DIO_banco_refatorado
+│── 🐍 desafio.py          # Arquivo principal com a lógica refatorada
 │── 📄 README.md         # Este arquivo
 
 ````
@@ -27,10 +27,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 $ git clone https://github.com/ferreiraryan/sistema-bancario-python
 
 # Acesse o diretório
-$ cd sistema-bancario
+$ cd sDIO_banco_refatorado
 
 # Execute o projeto
-$ python banco.py
+$ python desafio.py
 ````
 
 ## 🛠️ Uso
